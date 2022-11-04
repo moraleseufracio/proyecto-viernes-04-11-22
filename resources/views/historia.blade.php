@@ -1,21 +1,29 @@
+
 <?php
 echo "SOY LA HISTORIA"
 ?>
+<head>
+<title>vestimenta  de CUSCO</title>
+    <style>
+        body{
+            background-color:#0100FF20
+        }
+        img{
+            border: 3px solid #000;
+            border-radius: 15px;
+            display: block;
+            margin: 50px;
+            width: 400px;
+            height: auto;
+        }
+        a{
+            color:#f00;
+        }
 
-<body>
-<select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
-  <option selected>inicio</option>
-  <option value="1">uno</option>
-  <option value="2">dos</option>
-  <option value="3">tres</option>
-</select>
+    </style>
+</head>
 
-<select class="form-select form-select-sm" aria-label=".form-select-sm example">
-  <option selected>menu</option>
-  <option value="1">uno</option>
-  <option value="2">dos</option>
-  <option value="3">Tres</option>
-</select>  
+<body> 
 
-
+<img  src="https://www.perurail.com/wp-content/uploads/2020/11/Machu-Picchu-la-Ciudadela-Inca.jpg" alt="este es un plata de comida" width:100px;>
 </body>
