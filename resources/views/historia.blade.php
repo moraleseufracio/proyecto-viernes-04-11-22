@@ -1,9 +1,9 @@
 
 <?php
-echo "SOY LA HISTORIA"
+echo "ESTA ES LA HISTORIA DE:"
 ?>
 <head>
-<title>vestimenta  de CUSCO</title>
+<title> CUSCO</title>
     <style>
         body{
             background-color:#0100FF20
@@ -23,7 +23,14 @@ echo "SOY LA HISTORIA"
     </style>
 </head>
 
-<body> 
+<body>  
+<select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
+<option selected>inicio</option>
+<option value="1">uno</option>
+<option value="2">dos</option>
+<option value="3">tres</option>
+</select>
+
 
 <img  src="https://www.perurail.com/wp-content/uploads/2020/11/Machu-Picchu-la-Ciudadela-Inca.jpg" alt="este es un plata de comida" width:100px;>
 </body>
